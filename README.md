@@ -1,17 +1,10 @@
 # Python Phishing URL Detection
 ---
 
-### Demo Video: [https://youtu.be/9t4gbbrkfks](https://youtu.be/9t4gbbrkfks)
-
-**Python 3.11.9 _(Currently Using)_**
+**Python 3.10.0 _(Currently Using)_**
 
 
 ## How to Run?
-
-- Clone or download [python-phishing-url-detection](https://github.com/sannjayy/python-phishing-url-detection) 
-
-`git clone git@github.com:sannjayy/python-phishing-url-detection.git`
-
 
 - Create a virtual environment
 ```bash
